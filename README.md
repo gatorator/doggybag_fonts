@@ -1,7 +1,8 @@
 # doggybag_fonts
-In 2019, when I was just starting college, I threw together some royalty free handwritten fonts for fun, called Elegantile and Anglerhand. They were received surprisingly well on social media, so with the resulting boost in confidence I attempted to make a real, actual sans-serif font called Gunbangs. In 2021, to get myself out of a creative slump I made an experimental font called LW90 that was based on using rounded lines to carve negative space out of squares. I still see all of these fonts out in the wild to this day which is quite surprising to me. I've decided to upload my fonts and their respective source files to GitHub to allow people to use them and improve upon them.
-
-My workflow for all of these fonts was as follows:
+In 2019, when I was just starting college, I threw together some royalty free handwritten fonts for fun, called Elegantile and Anglerhand. They were received surprisingly well on social media, so with the resulting boost in confidence I attempted to make a real, actual sans-serif font called Gunbangs. (It wasn't very good in my opinion.) In 2021, to get myself out of a creative slump I made an experimental font called LW90 that was based on using rounded lines to carve negative space out of squares. I still see all of these fonts out in the wild to this day which is quite surprising to me. I've decided to upload my fonts and their respective source files to GitHub to allow people to use them and improve upon them.
+  
+I was inspired to make these fonts by the very inspiring [Tom7](http://tom7.org/) and his [large collection of handwritten fonts](http://fonts.tom7.com/). As such I attempted to match his font-making methodology pretty closely.  
+My workflow for all of these fonts was as follows:  
 1. Design the actual glyphs in Adobe Flash. This wasn't really the most ideal piece of software for the job, especially for my attempts at non-handwritten fonts, but it was the one I was most comfortable with.
 2. Export all of the glyphs as .svg vector files.
 3. Create a new font in FontForge, import the .svg files for each glyph.
@@ -12,7 +13,7 @@ My workflow for all of these fonts was as follows:
    ![image](https://github.com/gatorator/doggybag_fonts/assets/56567229/2d4dbeb9-b996-4839-b7ec-493d76759c01)  
    Each glyph is now level!  
 5. After importing, cleaning up, and kerning each glyph, I wrote the metadata and exported the font.
-
+  
 # Previews
 ![demo1](https://github.com/gatorator/doggybag_fonts/assets/56567229/07643f26-86d8-4b17-bebb-a23dfe76c3cc)
 ![demo1 (2)](https://github.com/gatorator/doggybag_fonts/assets/56567229/4bb61eb6-3c19-4da5-a883-7db7c4b1ff68)
